@@ -5,4 +5,14 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  width: 100vw;
+  /* min-height: 100vh; */
+  background: url(./assets/bg-desktop.png) no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #ff7979;
+}
+
+input:focus {
+  outline: none;
 }
