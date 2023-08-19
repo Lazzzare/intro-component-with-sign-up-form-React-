@@ -9,6 +9,9 @@ export default {
         lightPurple: "#5E54A4",
         lightBlack: "#3D3B48",
       },
+      boxShadow: {
+        costumShadow: "0px 8px 0px 0px rgba(0, 0, 0, 0.15)",
+      },
     },
   },
   plugins: [],
