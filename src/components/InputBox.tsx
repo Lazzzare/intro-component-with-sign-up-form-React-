@@ -29,6 +29,7 @@ const InputBox: React.FC = () => {
 
   const onSubmit: SubmitHandler<Inputs> = (data) => {
     console.log(data);
+    alert("everything okey");
   };
 
   const inputFields: InputField[] = [
@@ -112,9 +113,9 @@ const InputBox: React.FC = () => {
 
         <button
           type="submit"
-          className="text-white bg-lightGreen py-[15px] rounded-[5px] hover:bg-[#77E2B3] duration-300"
+          className="text-white bg-lightGreen py-[15px] rounded-[5px] hover:bg-[#77E2B3] duration-300 uppercase"
         >
-          CLAIM YOUR FREE TRIAL
+          claim your free trial
         </button>
 
         <p className="text-[#BAB7D4] text-center text-[11px] font-normal leading-[21px]">
