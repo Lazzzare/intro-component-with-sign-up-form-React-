@@ -4,7 +4,7 @@
 
 # Getting Started
 
-![.gif](/src/assets/gifi.gif)
+![.gif](/src/assets/gif.gif)
 
 1. First of all you need to clone app repository from github:
 
@@ -26,14 +26,13 @@ npm run dev
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/GithubUserAPI-React)
-- Live Site URL: [Live Site](https://github-user-api-react.netlify.app/)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/intro-component-with-sign-up-form-React-)
+- Live Site URL: [Live Site](https://intro-component-with-sign-up-form-react.vercel.app/)
 
 # Built With
 
 - _Vite_
 - _React_
 - _Typescript (TSX)_
-- _React Hooks (useState, useEffect)_
-- _sessionStorage_
+- _react-hook-form_
 - _TailwindCss_
